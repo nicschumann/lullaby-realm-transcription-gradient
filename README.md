@@ -48,5 +48,9 @@ The basic workflow here is: create a docker image and push it docker hub, build 
 
 > NOTE(Nic): Make sure to put as much of this as you can into configuration files that we can leverage with the paperspace command line tool. This is a todo for this repo.
 
-The end for now
 
+### Important Links
+
+- [Docker Hub](https://hub.docker.com/layers/nicschumann/lullaby-realm-transcriptions-gradient)
+- [Paperspace Gradient Deployments](https://console.paperspace.com/nics/projects/p31evwqnrls/gradient-deployments)
+- [Paperspace Core Machines](https://console.paperspace.com/nics/machines)
