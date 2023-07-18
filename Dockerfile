@@ -12,5 +12,4 @@ RUN python3 download.py
 
 # May need to get the LD_LIBRARY_PATH to point to cudnn_ops_infer again
 
-CMD ["python3", "start.py"]
-
+CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "80"]
